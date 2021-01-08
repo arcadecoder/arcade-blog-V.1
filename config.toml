@@ -65,7 +65,7 @@ paginate = 10
     [params.portrait]
     path    = "/img/me.png"
     alt     = "Portrait"
-    maxWidth = "200px"
+    maxWidth = "100px"
 
 [[params.social]]
     name = "twitter"
