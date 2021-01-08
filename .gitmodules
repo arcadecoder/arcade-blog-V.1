@@ -4,3 +4,6 @@
 [submodule "themes/hugo-arcade"]
 	path = themes/hugo-arcade
 	url = git@github.com:arcadecoder/hugo-arcade.git
+[submodule "themes/hello-friend-ac"]
+	path = themes/hello-friend-ac
+	url = git@github.com:arcadecodes/hello-friend-ac.git
