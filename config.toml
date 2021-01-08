@@ -7,6 +7,7 @@ paginate = 10
 [permalinks]
     posts = "posts/:year/:month/:title/"
 
+
 [author]
     name = "Arcade Coder"
 
@@ -17,7 +18,7 @@ paginate = 10
     dateformNumTime = "2006-01-02 15:04"
 
     # Subtitle for home
-    homeSubtitle = "Data Engineer & Technical writer"
+    homeSubtitle = "Programmer & Technical writer"
 
     # Set disableReadOtherPosts to true in order to hide the links to other posts.
     disableReadOtherPosts = false
@@ -94,3 +95,24 @@ paginate = 10
 [[params.social]]
     name = "stackoverflow"
     url = "https://stackoverflow.com/users/11055600/arcade"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "posts/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
