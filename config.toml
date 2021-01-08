@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-uk"
-title = "Hello, I'm Arcade 😊"
-theme = "hello-friend-ng"
+title = "Arcade Coder 😊"
+theme = "hugo-arcade"
 paginate = 10
 
 [permalinks]
