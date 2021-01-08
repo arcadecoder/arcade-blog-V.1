@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-uk"
 title = "Hello, I'm Arcade 😊"
 theme = "hello-friend-ng"
@@ -6,7 +6,6 @@ paginate = 10
 
 [permalinks]
     posts = "posts/:year/:month/:title/"
-
 
 [author]
     name = "Arcade Coder"
