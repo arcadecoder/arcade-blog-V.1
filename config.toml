@@ -84,10 +84,6 @@ paginate = 10
     url  = "https://github.com/arcadecoder"
 
 [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/arcade-k-63a62b101/"
-
-[[params.social]]
     name = "instagram"
     url = "https://www.instagram.com/arcadecoder/"
 
