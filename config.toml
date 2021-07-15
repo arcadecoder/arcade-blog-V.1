@@ -49,7 +49,7 @@ paginate = 10
       logoHomeLink = "/"
     # or
     #
-    #path = "/img/me.JPG"
+    #path = "/img/me.PNG"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
